@@ -36,7 +36,7 @@
 
 - Change configuration and add weight path to `.yaml` files in `EFTNet/config` , then run the `meta_test.sh` file for testing.
 
-
+This paper is currently undergoing second review by the Applied Intelligence journal
 ## References
 
 This repo is mainly built based on [MSANet](https://github.com/AIVResearch/MSANet), [PFENet](https://github.com/dvlab-research/PFENet), and [BAM](https://github.com/chunbolang/BAM). Thanks for their great work!
