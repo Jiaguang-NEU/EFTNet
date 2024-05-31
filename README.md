@@ -42,4 +42,4 @@
 This repo is mainly built based on [MSANet](https://github.com/AIVResearch/MSANet), [PFENet](https://github.com/dvlab-research/PFENet), and [BAM](https://github.com/chunbolang/BAM). Thanks for their great work!
 
 ````
-This paper is currently being reviewed by the Applied Intelligence journal
+This paper has been accepted for publication in Applied Intelligence.
